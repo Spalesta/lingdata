@@ -1,9 +1,5 @@
 бред **полночный бред** _терзает сердце_ мне `опять`
 
-<picture>
-  <source media="https://64.media.tumblr.com/c2174e7f5a044b84031ec11893aec89e/e8bef377039ae689-61/s640x960/2d7e1ca47b98082a65c2b1a90beafce07c850c49.jpg">
-</picture>
-
 # заголовок прости господи
 ## жеесть
 
@@ -22,6 +18,6 @@
 
 **Bold** и _Italic_ и `ключевые слова` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image]([src](https://64.media.tumblr.com/c2174e7f5a044b84031ec11893aec89e/e8bef377039ae689-61/s640x960/2d7e1ca47b98082a65c2b1a90beafce07c850c49.jpg)https://64.media.tumblr.com/c2174e7f5a044b84031ec11893aec89e/e8bef377039ae689-61/s640x960/2d7e1ca47b98082a65c2b1a90beafce07c850c49.jpg)
 
 Три обратных апострофа  (```) выделяют и конец блока текста, обычно кода программы
