@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-10-12T23:40:51+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-11-13T22:57:53+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -1207,8 +1207,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a28" CVE_REF="cveid_aa61a0a9-df07-4edd-8305-952db57f73fa">
-                <ANNOTATION_VALUE>PART</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a28" CVE_REF="cveid_e981f31b-d38d-45ce-91fa-0003327d7136">
+                <ANNOTATION_VALUE>ADV</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1362,8 +1362,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a59">
-                <ANNOTATION_VALUE/>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a59" CVE_REF="cveid_97290968-4288-4d05-bbc7-ec54ca729924">
+                <ANNOTATION_VALUE>VERB</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1462,8 +1462,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a79" CVE_REF="cveid_4e895c6e-769b-4a28-983d-b7745412d1d4">
-                <ANNOTATION_VALUE>PARENTH</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a79" CVE_REF="cveid_aa61a0a9-df07-4edd-8305-952db57f73fa">
+                <ANNOTATION_VALUE>PART</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1557,8 +1557,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a98" CVE_REF="cveid_20f78059-d2e8-4f05-b5e1-5ecdb74f5fb8">
-                <ANNOTATION_VALUE>PRON</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a98" CVE_REF="cveid_fd3892e0-2247-4b30-aac6-412df7de2983">
+                <ANNOTATION_VALUE>DET</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1732,8 +1732,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a133" CVE_REF="cveid_c102500d-dff7-451d-b663-a514b194a5c4">
-                <ANNOTATION_VALUE>ADJ</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a133" CVE_REF="cveid_fd3892e0-2247-4b30-aac6-412df7de2983">
+                <ANNOTATION_VALUE>DET</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2001,13 +2001,13 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a328"
                 TIME_SLOT_REF1="ts70" TIME_SLOT_REF2="ts74">
-                <ANNOTATION_VALUE>потирает руки, кисти, ладони ориентированы друг к другу</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>пальцы, руки, потирает руки, кисти, ладони ориентированы друг к другу, сплетает пальцы, кисти расслаблены</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a329"
                 TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts78">
-                <ANNOTATION_VALUE>разводит руки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>руки, разводит руки, ладони ориентированы друг к другу</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2031,19 +2031,19 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a340"
                 TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts143">
-                <ANNOTATION_VALUE>поднимает и разводит руки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>руки, поднимает и разводит руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a341"
                 TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts147">
-                <ANNOTATION_VALUE>опускает и своди руки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>руки, ладони ориентированы к собеседнику, пальцы сжаты вместе, опускает и сводит руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a342"
                 TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts155">
-                <ANNOTATION_VALUE>кисти,разводит руки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>кисти, разводит руки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2068,17 +2068,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a495" ANNOTATION_REF="a328">
-                <ANNOTATION_VALUE>неуверенность</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>жесты внутреннего состояния: неуверенность</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a496" ANNOTATION_REF="a329">
-                <ANNOTATION_VALUE>указательный жест</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>дейктические жесты: общеуказательный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a497" ANNOTATION_REF="a337">
-                <ANNOTATION_VALUE>указательный жест</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>дейктические жесты:указательный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2088,22 +2088,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a355" ANNOTATION_REF="a339">
-                <ANNOTATION_VALUE>указательный жест: показывает лестницы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительные жесты: показывает лестницы</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a357" ANNOTATION_REF="a340">
-                <ANNOTATION_VALUE>указательный жест: показывает лестницы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительные жесты: предмет: лестница</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a358" ANNOTATION_REF="a341">
-                <ANNOTATION_VALUE>указательный жест: показывает лестницы</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительные жесты: форма: круглый</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a356" ANNOTATION_REF="a342">
-                <ANNOTATION_VALUE>указательный жест: показывает шлагбаум</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>изобразительные жесты: показывает шлагбаум</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2113,7 +2113,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a500" ANNOTATION_REF="a344">
-                <ANNOTATION_VALUE>коммуникации</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поддержка коммуникации</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
